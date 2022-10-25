@@ -1,0 +1,16 @@
+D:\Repositórios\TesteGit\Teste2\bin\Debug\net5.0\Teste2.exe
+D:\Repositórios\TesteGit\Teste2\bin\Debug\net5.0\Teste2.deps.json
+D:\Repositórios\TesteGit\Teste2\bin\Debug\net5.0\Teste2.runtimeconfig.json
+D:\Repositórios\TesteGit\Teste2\bin\Debug\net5.0\Teste2.runtimeconfig.dev.json
+D:\Repositórios\TesteGit\Teste2\bin\Debug\net5.0\Teste2.dll
+D:\Repositórios\TesteGit\Teste2\bin\Debug\net5.0\ref\Teste2.dll
+D:\Repositórios\TesteGit\Teste2\bin\Debug\net5.0\Teste2.pdb
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.csproj.AssemblyReference.cache
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.AssemblyInfoInputs.cache
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.AssemblyInfo.cs
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.csproj.CoreCompileInputs.cache
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.dll
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\ref\Teste2.dll
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.pdb
+D:\Repositórios\TesteGit\Teste2\obj\Debug\net5.0\Teste2.genruntimeconfig.cache
